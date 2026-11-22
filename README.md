@@ -14,6 +14,7 @@ My programming practice and problem-solving journey using Java, Python, C++ and 
 - Java
 - Python
 - C++
+- C
 
 ## Topics Covered
 
